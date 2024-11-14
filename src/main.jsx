@@ -38,8 +38,6 @@ const appRouter = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-        <BrowserRouter basename="/Book-Sphere">
-           <RouterProvider router={appRouter}/>
-        </BrowserRouter>
+    <RouterProvider router={appRouter}/>
   </StrictMode>,
 )
