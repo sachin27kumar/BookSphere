@@ -1,5 +1,7 @@
 # React + Vite
 
+Git Repo - https://github.com/sachin27kumar/BookSphere
+
 Online Library Website
 This is an online library website that allows users to browse and search for books by category or tit
 Features
@@ -15,7 +17,7 @@ Installation Instructions
 - npm (comes with Node.js)
 - Setup Steps
 - Clone the Repository:
-- git clone https://github.com/your-username/online-library.git
+- git clone https://github.com/sachin27kumar/BookSphere
 - cd online-library
 - Install Dependencies:
 - npm install
