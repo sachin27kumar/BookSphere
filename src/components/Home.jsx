@@ -43,7 +43,7 @@ function Home() {
           </Link>
 
           {/* Sci-Fi Button */}
-          <Link to="/browsebooks`">
+          <Link to="/browsebooks">
             <button className="ml-10 w-3/4 p-5 text-xl text-gray-800 font-semibold bg-gradient-to-r from-indigo-400 to-purple-300 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition duration-300">
               Sci-Fi
             </button>
